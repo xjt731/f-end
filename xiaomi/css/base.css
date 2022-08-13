@@ -1,0 +1,11 @@
+.w{
+    width: 1226px;
+    margin: 0 auto;
+}
+
+
+ /* 去除a的下划线 */
+ a{
+    text-decoration: none;
+    color: #333;
+}
